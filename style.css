@@ -1,0 +1,16 @@
+.image {
+    border: 2px solid;
+    text-align: center;
+    background-color: skyblue;
+    padding-top: 5%; 
+    padding-bottom: 5%;
+}
+
+.container{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+*button{
+    width: 30px;
+}
